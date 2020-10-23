@@ -1,0 +1,13 @@
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.exe
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csprojAssemblyReference.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache
