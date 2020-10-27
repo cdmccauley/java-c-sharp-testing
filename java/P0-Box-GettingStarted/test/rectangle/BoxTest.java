@@ -27,4 +27,13 @@ public class BoxTest {
         assertEquals(expResult, result);
     }
     
+    @Test
+    public void testVolume() {
+        System.out.println("volume");
+        Box instance = new Box(12, 8, 10);
+        int expResult = 960;
+        int result = instance.volume();
+        assertEquals(expResult, result);
+    }
+    
 }
