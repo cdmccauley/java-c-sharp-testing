@@ -34,5 +34,20 @@ namespace RectangleTest
             // test variables
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void TestVolume()
+        {
+            // declarations
+            Box testBox = new Box(12, 8, 10);
+            double expected = 960;
+            double actual;
+
+            // call method
+            actual = testBox.getVolume();
+
+            // test variables
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
