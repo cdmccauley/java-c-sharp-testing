@@ -18,6 +18,8 @@ namespace RectangleTest
 
             // test variables
             Assert.AreEqual(expected, actual);
+
+            Assert.AreEqual(40, new Box(12, 8).getPerimeter());
         }
 
         [TestMethod]
@@ -33,6 +35,8 @@ namespace RectangleTest
 
             // test variables
             Assert.AreEqual(expected, actual);
+
+            Assert.AreEqual(96, new Box(12, 8).getArea());
         }
 
         [TestMethod]
@@ -48,6 +52,8 @@ namespace RectangleTest
 
             // test variables
             Assert.AreEqual(expected, actual);
+
+            Assert.AreEqual(960, new Box(12, 8, 10).getVolume());
         }
     }
 }
