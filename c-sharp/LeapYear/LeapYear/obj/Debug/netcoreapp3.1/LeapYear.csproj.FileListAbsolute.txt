@@ -1,0 +1,11 @@
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csprojAssemblyReference.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
