@@ -9,3 +9,5 @@ C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\ob
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache

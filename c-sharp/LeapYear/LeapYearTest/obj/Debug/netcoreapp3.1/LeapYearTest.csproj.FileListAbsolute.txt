@@ -93,3 +93,5 @@ C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYearTes
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYearTest\obj\Debug\netcoreapp3.1\LeapYearTest.csproj.CopyComplete
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYearTest\obj\Debug\netcoreapp3.1\LeapYearTest.dll
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYearTest\obj\Debug\netcoreapp3.1\LeapYearTest.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYearTest\obj\Debug\netcoreapp3.1\LeapYearTest.csproj.CoreCompileInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\LeapYear\LeapYearTest\obj\Debug\netcoreapp3.1\LeapYearTest.genruntimeconfig.cache
