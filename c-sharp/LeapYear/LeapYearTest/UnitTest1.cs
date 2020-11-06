@@ -20,6 +20,8 @@ namespace LeapYearTest
             Assert.AreEqual(28, LeapYear.Program.numFebDays(1950));
             Assert.AreEqual(29, LeapYear.Program.numFebDays(2004));
             Assert.AreEqual(28, LeapYear.Program.numFebDays(2100));
+
+            //Assert.AreEqual(28, LeapYear.Program.numFebDays(2032), "2032 is leap year");
         }
 
         [TestMethod]
@@ -37,6 +39,8 @@ namespace LeapYearTest
             Assert.IsFalse(LeapYear.Program.isLeapYear(1950));
             Assert.IsTrue(LeapYear.Program.isLeapYear(2004));
             Assert.IsFalse(LeapYear.Program.isLeapYear(2100));
+
+            //Assert.IsFalse(LeapYear.Program.isLeapYear(2032), "2032 is leap year");
         }
     }
 }
