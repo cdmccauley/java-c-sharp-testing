@@ -1,0 +1,12 @@
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.1\TemperatureConverter.exe
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.1\TemperatureConverter.deps.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.1\TemperatureConverter.runtimeconfig.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.1\TemperatureConverter.runtimeconfig.dev.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.1\TemperatureConverter.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.1\TemperatureConverter.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.AssemblyInfo.cs
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.genruntimeconfig.cache
