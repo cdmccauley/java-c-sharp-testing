@@ -10,3 +10,4 @@ C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.dll
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.pdb
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.genruntimeconfig.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.1\TemperatureConverter.csprojAssemblyReference.cache

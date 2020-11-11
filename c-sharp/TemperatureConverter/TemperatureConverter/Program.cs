@@ -11,12 +11,12 @@ namespace TemperatureConverter
 
         public static double FToC(double f)
         {
-            return 0.0;
+            return (f - 32) * 5.0 / 9.0;
         }
 
         public static double CToF(double c)
         {
-            return 0.0;
+            return (c * 9.0 / 5.0) + 32;
         }
     }
 }
