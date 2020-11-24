@@ -3,15 +3,15 @@
 public class MPG
 {
 	// class declarations
-	private static double TotalMiles { get; set; }
-	private static double TotalGallons { get; set; }
-	private static double TotalMPG { get; set; }
-	private static int NumTrips { get; set; }
+	public static double TotalMiles { get; private set; }
+	public static double TotalGallons { get; private set; }
+	public static double TotalMPG { get; private set; }
+	public static int NumTrips { get; private set; }
 
 	// instance declarations
-	private double Miles { get; set; }
-	private double Gallons { get; set; }
-	private double Mpg { get; set; }
+	public double Miles { get; private set; }
+	public double Gallons { get; private set; }
+	public double Mpg { get; private set; }
 
 	// constructor
 	public MPG(double miles, double gallons)
