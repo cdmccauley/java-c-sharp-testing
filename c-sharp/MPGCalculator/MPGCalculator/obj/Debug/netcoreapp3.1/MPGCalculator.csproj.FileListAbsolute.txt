@@ -1,0 +1,11 @@
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\bin\Debug\netcoreapp3.1\MPGCalculator.exe
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\bin\Debug\netcoreapp3.1\MPGCalculator.deps.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\bin\Debug\netcoreapp3.1\MPGCalculator.runtimeconfig.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\bin\Debug\netcoreapp3.1\MPGCalculator.runtimeconfig.dev.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\bin\Debug\netcoreapp3.1\MPGCalculator.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\bin\Debug\netcoreapp3.1\MPGCalculator.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.csprojAssemblyReference.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.AssemblyInfoInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.AssemblyInfo.cs
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.pdb

@@ -6,9 +6,8 @@ namespace MPGCalculatorTest
     public class TestMPGCalculator
     {
         [TestMethod]
-        public void TestMPGInstance()
+        public void TestMethod1()
         {
-
         }
     }
 }
