@@ -2,29 +2,38 @@
 
 public class MPG
 {
-	private static double totalMiles, totalGallons, totalMPG;
-	private static int numTrips;
-	private double miles, gallons, mpg;
+	// class declarations
+	private static double TotalMiles { get; set; }
+	private static double TotalGallons { get; set; }
+	private static double TotalMPG { get; set; }
+	private static int NumTrips { get; set; }
 
+	// instance declarations
+	private double Miles { get; set; }
+	private double Gallons { get; set; }
+	private double Mpg { get; set; }
+
+	// constructor
 	public MPG(double miles, double gallons)
 	{
-		this.miles = miles;
-		this.gallons = gallons;
-		this.mpg = this.miles / this.gallons;
+		Miles = miles;
+		Gallons = gallons;
+		Mpg = Miles / Gallons;
 
-		MPG.totalMiles += miles;
-		MPG.totalGallons += gallons;
-		MPG.numTrips++;
-		MPG.totalMPG = MPG.totalMiles / MPG.totalGallons;
+		TotalMiles += miles;
+		TotalGallons += gallons;
+		NumTrips++;
+		TotalMPG = TotalMiles / TotalGallons;
 	}
 
+	// functions
 	public void displayCurrentMPG()
 	{
-		Console.WriteLine($"This trip = {this.mpg:n2}");
+		Console.WriteLine($"This trip = {Mpg:n2}");
 	}
 
 	public static void displayTotalMPG()
 	{
-		Console.WriteLine($"\nFor {MPG.numTrips} trips, total MPG = {MPG.totalMPG:n2}");
+		Console.WriteLine($"\nFor {NumTrips} trips, total MPG = {TotalMPG:n2}");
 	}
 }

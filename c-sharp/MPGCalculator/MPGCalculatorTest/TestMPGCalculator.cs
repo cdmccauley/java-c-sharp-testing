@@ -6,8 +6,10 @@ namespace MPGCalculatorTest
     public class TestMPGCalculator
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMPGInstance()
         {
+            MPG instance = new MPG(300, 10);
+
         }
     }
 }
