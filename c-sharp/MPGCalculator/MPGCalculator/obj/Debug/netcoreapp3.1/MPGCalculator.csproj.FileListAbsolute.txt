@@ -8,3 +8,6 @@ C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCal
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.AssemblyInfo.cs
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.dll
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.csprojAssemblyReference.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\MPGCalculator\MPGCalculator\obj\Debug\netcoreapp3.1\MPGCalculator.genruntimeconfig.cache

@@ -6805,7 +6805,6 @@
   },
   "packageFolders": {
     "C:\\Users\\mccaulcd\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -6818,13 +6817,11 @@
       "outputPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\MPGCalculator\\MPGCalculatorTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\mccaulcd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6835,6 +6832,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\MPGCalculator\\MPGCalculator\\MPGCalculator.csproj": {
               "projectPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\MPGCalculator\\MPGCalculator\\MPGCalculator.csproj"
@@ -6850,6 +6848,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -6883,7 +6882,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
