@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbers", "RandomNumbers\RandomNumbers.csproj", "{8DC31E69-1EFE-41B6-AEE5-78183527C5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersTest", "RandomNumbersTest\RandomNumbersTest.csproj", "{D553AE52-60D7-452C-80C4-23245833667C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC31E69-1EFE-41B6-AEE5-78183527C5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC31E69-1EFE-41B6-AEE5-78183527C5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC31E69-1EFE-41B6-AEE5-78183527C5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC31E69-1EFE-41B6-AEE5-78183527C5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D553AE52-60D7-452C-80C4-23245833667C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D553AE52-60D7-452C-80C4-23245833667C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D553AE52-60D7-452C-80C4-23245833667C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D553AE52-60D7-452C-80C4-23245833667C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3E1C8D-9E5D-4965-BB3E-3AE749A57E3A}
+	EndGlobalSection
+EndGlobal
