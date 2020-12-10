@@ -22,7 +22,7 @@ public class RandomNumbers {
     
     public static int getRN(int min, int max) {
         Random rng = new Random();
-        int answer = rng.nextInt((max - min + 1) + min);
+        int answer = rng.ints(min, max + 1).findFirst().getAsInt();
         return answer;
     }
     
