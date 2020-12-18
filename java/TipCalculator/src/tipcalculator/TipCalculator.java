@@ -21,7 +21,7 @@ public class TipCalculator {
     }
     
     public static double calcTip(double cost, double tipPct) {
-        return cost * (tipPct / 100);
+        return cost * (tipPct / 100.00);
     }
 
     public static double calcTotal(double cost, double tipAmt) {
