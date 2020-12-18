@@ -46,7 +46,7 @@ public class TipCalculatorTest {
 
     @Test
     public void calcTipTest() {
-        assertEquals(expected, TipCalculator.calcTip(cost, tipPct), 0.001); // unsure of delta for monetary value
+        assertEquals(expected, TipCalculator.calcTip(cost, tipPct), 0.00);
     }
     
 }

@@ -21,7 +21,7 @@ public class TipCalculator {
     }
     
     public static double calcTip(double cost, double tipPct) {
-        return cost * (tipPct / 100.00);
+        return (double)Math.round((cost * (tipPct / 100.00)) * 100d) / 100d;
     }
 
     public static double calcTotal(double cost, double tipAmt) {
