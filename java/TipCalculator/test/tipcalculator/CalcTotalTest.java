@@ -18,35 +18,34 @@ import static org.junit.runners.Parameterized.*;
  *
  * @author mccaulcd
  */
-@RunWith(Parameterized.class)
-public class TipCalculatorTest {
+public class CalcTotalTest {
     
     @Parameterized.Parameter(0)
     public double cost;
     @Parameterized.Parameter(1)
-    public double tipPct;
+    public double tipTotal;
     @Parameterized.Parameter(2)
     public double expected;
     
-    public TipCalculatorTest() {
+    public CalcTotalTest() {
     }
     
     @Parameterized.Parameters
     public static Collection<Object[]> data() {
         Object[][] data = new Object[][] {
             // test values below
-            { 30.0, 15.0, 4.50 },
-            { 30.0, 18.0, 5.40 }, 
-            { 30.0, 20.0, 6.00 }, 
-            { 30.0, 22.0, 6.60 }, 
-            { 30.0, 25.0, 7.50 }, 
+            { 30.0, 4.50, 34.50 },
+            { 30.0, 5.40, 35.40 }, 
+            { 30.0, 6.00, 36.00 }, 
+            { 30.0, 6.60, 36.60 }, 
+            { 30.0, 7.50, 37.50 }, 
         };
     return Arrays.asList(data);
     };
-
+    
     @Test
-    public void calcTipTest() {
-        assertEquals(expected, TipCalculator.calcTip(cost, tipPct), 0.00);
+    public void calcTotalTest() {
+        assertEquals(expected, TipCalculator.calcTotal(cost, tipTotal), 0.00);
     }
     
 }
