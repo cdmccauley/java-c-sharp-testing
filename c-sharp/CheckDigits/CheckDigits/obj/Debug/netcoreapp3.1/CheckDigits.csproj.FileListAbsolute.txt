@@ -1,0 +1,12 @@
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\bin\Debug\netcoreapp3.1\CheckDigits.exe
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\bin\Debug\netcoreapp3.1\CheckDigits.deps.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\bin\Debug\netcoreapp3.1\CheckDigits.runtimeconfig.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\bin\Debug\netcoreapp3.1\CheckDigits.runtimeconfig.dev.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\bin\Debug\netcoreapp3.1\CheckDigits.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\bin\Debug\netcoreapp3.1\CheckDigits.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\obj\Debug\netcoreapp3.1\CheckDigits.AssemblyInfoInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\obj\Debug\netcoreapp3.1\CheckDigits.AssemblyInfo.cs
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\obj\Debug\netcoreapp3.1\CheckDigits.csproj.CoreCompileInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\obj\Debug\netcoreapp3.1\CheckDigits.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\obj\Debug\netcoreapp3.1\CheckDigits.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\CheckDigits\CheckDigits\obj\Debug\netcoreapp3.1\CheckDigits.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculatorTest\\TipCalculatorTest.csproj": {}
+    "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigitsTest\\CheckDigitsTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculatorTest\\TipCalculatorTest.csproj": {
+    "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigitsTest\\CheckDigitsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculatorTest\\TipCalculatorTest.csproj",
-        "projectName": "TipCalculatorTest",
-        "projectPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculatorTest\\TipCalculatorTest.csproj",
+        "projectUniqueName": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigitsTest\\CheckDigitsTest.csproj",
+        "projectName": "CheckDigitsTest",
+        "projectPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigitsTest\\CheckDigitsTest.csproj",
         "packagesPath": "C:\\Users\\mccaulcd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculatorTest\\obj\\",
+        "outputPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigitsTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculator\\TipCalculator.csproj": {
-                "projectPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculator\\TipCalculator.csproj"
+              "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigits\\CheckDigits.csproj": {
+                "projectPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigits\\CheckDigits.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculator\\TipCalculator.csproj": {
+    "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigits\\CheckDigits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculator\\TipCalculator.csproj",
-        "projectName": "TipCalculator",
-        "projectPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculator\\TipCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigits\\CheckDigits.csproj",
+        "projectName": "CheckDigits",
+        "projectPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigits\\CheckDigits.csproj",
         "packagesPath": "C:\\Users\\mccaulcd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\TipCalculator\\TipCalculator\\obj\\",
+        "outputPath": "C:\\Users\\mccaulcd\\Desktop\\code\\java-c-sharp-testing\\c-sharp\\CheckDigits\\CheckDigits\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
