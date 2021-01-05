@@ -3,8 +3,28 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace TemperatureConverterTest
 {
     [TestClass]
-    public class UnitTest1
+    public class TestTemperatureConverter
     {
+        public const double DELTA = 0.00;
+
+        [DataTestMethod]
+        [DataRow(0.0, 32.0, DELTA)]
+        [DataRow(100.0, 212.0, DELTA)]
+        [DataRow(37.0, 98.6, DELTA)]
+        public void TestFToC(double expected, double initial, double d)
+        {
+            Assert.AreEqual(expected, TemperatureConverter.Program.FToC(initial), d);
+        }
+
+        [DataTestMethod]
+        [DataRow(32.0, 0.0, DELTA)]
+        [DataRow(212.0, 100.0, DELTA)]
+        [DataRow(98.6, 37.0, DELTA)]
+        public void TestCToF(double expected, double initial, double d)
+        {
+            Assert.AreEqual(expected, TemperatureConverter.Program.CToF(initial), d);
+        }
+
         [TestMethod]
         public void TestFToC()
         {
