@@ -19,7 +19,7 @@ import java.util.Arrays;
  * @author mccaulcd
  */
 @RunWith(Parameterized.class)
-public class OpsAdditionTest {
+public class OpsSubtractIntTest {
     
     public static double DELTA = 0.00;
     
@@ -35,19 +35,19 @@ public class OpsAdditionTest {
     @Parameterized.Parameters
     public static Collection<Object[]> data() {
         Object[][] data = new Object[][] {
-            { 0.0, 0.0, 0.0, DELTA },
-            { 15.0, 10.0, 5.0, DELTA },
-            { 17.0, 12.0, 5.0, DELTA },
+            { -0, 0, 0, DELTA },
+            { 5, 10, 5, DELTA },
+            { 7, 12, 5, DELTA },
         };
     return Arrays.asList(data);
     };
     
-    public OpsAdditionTest() {
+    public OpsSubtractIntTest() {
     }
     
     @Test
     public void testAddition() {
-        assertEquals(expected, Operations.Addition(left, right), d);
+        assertEquals(expected, Operations.Subtraction(left, right), d);
     }
     
 }
