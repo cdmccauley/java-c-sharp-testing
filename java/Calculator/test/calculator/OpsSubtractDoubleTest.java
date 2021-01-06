@@ -46,7 +46,7 @@ public class OpsSubtractDoubleTest {
     }
     
     @Test
-    public void testAddition() {
+    public void testDoubleSubtraction() {
         assertEquals(expected, Operations.Subtraction(left, right), d);
     }
     

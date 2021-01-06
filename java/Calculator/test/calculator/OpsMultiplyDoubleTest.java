@@ -46,7 +46,7 @@ public class OpsMultiplyDoubleTest {
     }
     
     @Test
-    public void testAddition() {
+    public void testDoubleMultiplication() {
         assertEquals(expected, Operations.Multiplication(left, right), d);
     }
     

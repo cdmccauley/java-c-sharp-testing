@@ -24,11 +24,11 @@ public class OpsDivideIntTest {
     public static double DELTA = 0.00;
     
     @Parameterized.Parameter(0)
-    public double expected;
+    public int expected;
     @Parameterized.Parameter(1)
-    public double left;
+    public int left;
     @Parameterized.Parameter(2)
-    public double right;
+    public int right;
     @Parameterized.Parameter(3)
     public double d;
     
@@ -46,7 +46,7 @@ public class OpsDivideIntTest {
     }
     
     @Test
-    public void testAddition() {
+    public void testIntDivision() {
         assertEquals(expected, Operations.Division(left, right), d);
     }
     
