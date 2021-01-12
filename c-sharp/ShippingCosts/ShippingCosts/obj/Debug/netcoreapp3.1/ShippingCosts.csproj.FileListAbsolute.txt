@@ -1,0 +1,12 @@
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.AssemblyInfoInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.AssemblyInfo.cs
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.csproj.CoreCompileInputs.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\bin\Debug\netcoreapp3.1\ShippingCosts.exe
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\bin\Debug\netcoreapp3.1\ShippingCosts.deps.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\bin\Debug\netcoreapp3.1\ShippingCosts.runtimeconfig.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\bin\Debug\netcoreapp3.1\ShippingCosts.runtimeconfig.dev.json
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\bin\Debug\netcoreapp3.1\ShippingCosts.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\bin\Debug\netcoreapp3.1\ShippingCosts.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.dll
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.pdb
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.genruntimeconfig.cache
