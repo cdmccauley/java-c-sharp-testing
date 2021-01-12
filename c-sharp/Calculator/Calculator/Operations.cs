@@ -43,6 +43,6 @@ public class Operations
 
 	public int Division(int left, int right)
 	{
-		return right != 0 ? left / right : 0;
+		return left / right;
 	}
 }

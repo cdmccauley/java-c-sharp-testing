@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace CalculatorTests
 {
@@ -107,13 +108,20 @@ namespace CalculatorTests
             Assert.AreEqual(expected, testInstance.Division(left, right));
         }
 
-        [DataRow(0, 0, 0)]
         [DataRow(0, 0, 80)]
         [DataRow(2, 12, 5)]
         [DataTestMethod]
         public void TestIntegerDivision(int expected, int left, int right)
         {
             Assert.AreEqual(expected, testInstance.Division(left, right));
+        }
+
+        [DataRow(0, 0, 0)]
+        [DataTestMethod]
+        [ExpectedException(typeof(DivideByZeroException))]
+        public void TestIntegerDivisionException(int expected, int left, int right)
+        {
+            testInstance.Division(left, right);
         }
     }
 }
