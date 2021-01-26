@@ -42,6 +42,26 @@ namespace ShippingCosts
 			this.Weight = weight;
 		}
 
+		public double getWeightFactor()
+        {
+			if (Weight < 10.0)
+				return 2.5;
+			else if (Weight < 25.0)
+				return 10.0;
+			else
+				return 25.0;
+        }
+
+		public double getDistanceFactor()
+        {
+			if (Distance < 100.0)
+				return 2.0;
+			else if (Distance < 500.0)
+				return 5.0;
+			else
+				return 10.0;
+        }
+
 		public bool isValid()
 		{
 			return !(distance == null) || !(weight == null);
@@ -50,7 +70,7 @@ namespace ShippingCosts
 		public double cost()
 		{
 			if (isValid())
-				return 0.0;
+				return getWeightFactor() * getDistanceFactor();
 			else
 				throw new InvalidPackageException(Distance.ToString(), Weight.ToString());
 		}

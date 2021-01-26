@@ -10,3 +10,4 @@ C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\Shippi
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.dll
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.pdb
 C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.genruntimeconfig.cache
+C:\Users\mccaulcd\Desktop\code\java-c-sharp-testing\c-sharp\ShippingCosts\ShippingCosts\obj\Debug\netcoreapp3.1\ShippingCosts.csprojAssemblyReference.cache
