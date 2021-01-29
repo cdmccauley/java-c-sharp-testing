@@ -15,15 +15,15 @@ public class Package {
 
     public Package(double distance, double weight) {
         // initialize distance
-        if (distance > 0)
+        if (distance > 0) {
             this.distance = distance;
-        else
-            this.distance = null;
+        } else {
+            this.distance = null; }
         // initialize weight
-        if (weight > 0)
+        if (weight > 0) {
             this.weight = weight;
-        else
-            this.weight = null;
+        } else {
+            this.weight = null; }
     }
     
     public void setDistance(double value) {
@@ -74,7 +74,7 @@ public class Package {
         if (isValid())
             return getWeightFactor() * getDistanceFactor();
         else
-            throw new InvalidPackageException(distance.toString(), weight.toString());
+            throw new InvalidPackageException(String.valueOf(distance), String.valueOf(weight));
     }
 
     public class InvalidPackageException extends Exception {
