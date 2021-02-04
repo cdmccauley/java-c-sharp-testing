@@ -7,18 +7,34 @@ package shippingcosts;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
+import org.junit.runners.Parameterized;
+import org.junit.runner.RunWith;
+
+import java.util.Collection;
+import java.util.Arrays;
 
 /**
  *
  * @author mccaulcd
  */
-
+@RunWith(Parameterized.class)
 public class InvalidPackageTest {
     
-    Package invalidPackage;
+    @Parameterized.Parameter(0)
+    public Package invalidPackage;
+    
+    @Parameterized.Parameters
+    public static Collection<Object[]> data() {
+        Object[][] data = new Object[][] {
+            { new Package(-1.0, -1.0) },
+            { new Package(0, 0) },
+            { new Package(-0.01, -0.01) },
+        };
+    return Arrays.asList(data);
+    };
     
     public InvalidPackageTest() {
-        invalidPackage = new Package(-1.0, -1.0);
+        // construct
     }
     
     @Test
